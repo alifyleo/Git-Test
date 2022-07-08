@@ -1,1 +1,1 @@
-A改完並push，造成B無法merge
+A修改內容並push，同時B也修改自己的1.txt，造成B無法merge
