@@ -1,1 +1,1 @@
-A處理完conflict
+A改完並push，造成B無法merge
